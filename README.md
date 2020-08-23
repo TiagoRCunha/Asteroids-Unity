@@ -8,7 +8,8 @@ This project is a game with Unity's basics concepts.
 ## How to Play
 
 - Clone this project and setup on your Unity or
-- double click on asteroids.x86_64
+- double click on asteroids.x86_64 (Linux build) or
+- enter in asteroids_windows path and double click asteroids.exe (windows)
 
 ## Preview
 
