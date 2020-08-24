@@ -8,8 +8,8 @@ This project is a game with Unity's basics concepts.
 ## How to Play
 
 - Clone this project and setup on your Unity or
-- Just the linux built [zip](https://github.com/TiagoRCunha/Asteroids-Unity/raw/master/asteroids.zip)
-- Just the windows built [zip](https://github.com/TiagoRCunha/Asteroids-Unity/raw/master/asteroids_windows.zip)
+- Just use the linux built [zip](https://github.com/TiagoRCunha/Asteroids-Unity/raw/master/asteroids.zip)
+- Just use the windows built [zip](https://github.com/TiagoRCunha/Asteroids-Unity/raw/master/asteroids_windows.zip)
 
 ## Preview
 
